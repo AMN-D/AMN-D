@@ -11,6 +11,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-AMN--D-black?logo=github)
 
 Here to look at my projects? Take your time — some of these are even hosted on GitHub Pages, so you can get a live demo.
+
 A bit about me: I’m a CSE-DS Major with Honors in Cyber Security. I’ve worked with Python, Java, HTML/CSS, and relational database projects. I’ve also built several AI models during my university days. I prefer using OSS over proprietary tools. I daily drive Linux (Arch - Hyprland), and as a hobby, I tinker with the OS.
 
 ## Want to contact me? 🌎: <a href="https://github.com/AMN-D"></a>
