@@ -1,13 +1,21 @@
-# Hello, I'm Aman Dhumal! 👋🏽
+# Hey There, I'm Aman Dhumal! 👋🏽
 
 <img src="https://i.postimg.cc/wx1QcK0m/1320325.png" alt="banner - to make the page standout">
-I'm just a student diving into programming to create something awesome! <!-- I'm really into open-source projects and hope to contribute to one someday. --> 🚀 I have a blast solving problems using Java, and I absolutely love whipping up HTML pages and crafting slick, modern UI. 🎨
 
+![Profile Views](https://komarev.com/ghpvc/?username=AMN-D&style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-Arch_Hyprland-blue?logo=arch-linux)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-AMN--D-black?logo=github)
 
-## Find me around the web 🌎: <a href="https://github.com/AMN-D"></a>
-- Check out my projects in action on <a href="https://www.youtube.com/@user-mn6cb8uy1s">Youtube</a> 📹 ✍🏾
+Here to look at my projects? Take your time — some of these are even hosted on GitHub Pages, so you can get a live demo.
+
+A bit about me: I’m a CSE-DS Major with Honors in Cyber Security. I’ve worked with Python, Java, HTML/CSS, and relational database projects. I’ve also built several AI models during my university days. I prefer using OSS over proprietary tools. I daily drive Linux (Arch - Hyprland), and as a hobby, I tinker with the OS.
+
+## Want to contact me? 🌎: <a href="https://github.com/AMN-D"></a>
+- Send me an email: <a href="mailto:amanddhumal@gmail.com">amanddhumal@gmail.com</a> 📹 ✍🏾
+- Check out my <a href="https://www.linkedin.com/in/aman-dhumal-b2aa73373/">LinkedIn</a> 💼
 <!-- - Solving coding puzzles over at <a href="https://leetcode.com/AMN-D/"> Leetcode</a> 🏓 --> 
-- Catch up with me on <a href="https://www.linkedin.com/in/aman-dhumal-20b882297/">LinkedIn</a> for updates 💼
-<!--  - See my designs on <a href="https://dribbble.com/AMANDDHUMAL">Dribbble</a> 🎨 --> 
-
- 
+<!-- - See my designs on <a href="https://dribbble.com/AMANDDHUMAL">Dribbble</a> 🎨 -->
